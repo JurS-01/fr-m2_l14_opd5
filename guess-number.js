@@ -17,11 +17,10 @@ const checkNumber = () => {
         alert('That is incorrect');
     } else {
         alert('Congrats, you won!');
-        alert(`Goodbye ${welcomeName}, see you next time :)`)
     }
 }
 console.log(checkNumber());
 
-// alert(`Goodbye ${welcomeName}, see you next time :)`)
+alert(`Goodbye ${welcomeName}, see you next time :)`)
 
 
